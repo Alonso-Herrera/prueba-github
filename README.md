@@ -23,22 +23,3 @@ I'm a Alonso de Jesus Herrera Cantillo a Junior Devops / Analyst  with 1 year of
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-<sub>⭐ Profile views matter — leave a star if you liked my work!</sub>
-
-</div>
