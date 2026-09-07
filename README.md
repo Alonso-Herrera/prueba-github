@@ -9,7 +9,7 @@
 
 ## 👤 About Me
 
-I'm a Alonso de Jesus Herrera Cantillo a Junior Devops / Analyst ** with 1 year of experience building innovative technological solutions across multiple business domains. I'm passionate about crafting **clean, efficient, testable, and scalable infraestructures**, and I actively participate in the full development lifecycle following agile methodologies.
+I'm a Alonso de Jesus Herrera Cantillo a Junior Devops / Analyst  with 1 year of experience building innovative technological solutions across multiple business domains. I'm passionate about crafting **clean, efficient, testable, and scalable infraestructures**, and I actively participate in the full development lifecycle following agile methodologies.
 
 - 🛠️ Data analyst / Devops  
 - 🎨 Enthusiastic about analysis, algorithms, and infraestructure deploy
