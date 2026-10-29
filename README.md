@@ -17,7 +17,7 @@ I'm a Alonso de Jesus Herrera Cantillo a Junior Devops / Analyst  with experienc
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://icons8.com/icons/set/visual-studio-code)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
