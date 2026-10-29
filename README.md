@@ -11,7 +11,7 @@ I'm a Alonso de Jesus Herrera Cantillo a Junior Devops / Analyst  with experienc
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
 
